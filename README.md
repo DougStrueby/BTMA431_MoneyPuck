@@ -1,6 +1,6 @@
 ## BTMA431 Final Group Project - MoneyPuck
 
-Group Members: Isaac Lutzko, Nolan Ruzicki, Karl Specht, Doug Strueby
+Group Members: Doug Strueby, Isaac Lutzko, Nolan Ruzicki, Karl Specht
 
 General Description: Conducted a study on and investigated NHL player and team data. Using R, this data was collected via web scraping, visualized with R packages, and analyzed via decision analysis and other statistical methods.
 
